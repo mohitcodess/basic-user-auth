@@ -1,6 +1,6 @@
 #backend
 
-``sh
+```sh
     cd ./backend
     virtualenv venv
     ./venv/Scripts/activate
@@ -14,7 +14,7 @@
 
 #frontend
 
-``sh
+```sh
     cd ./frontend/user-frontend
     npm install
     npm run dev
